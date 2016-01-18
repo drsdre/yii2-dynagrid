@@ -107,7 +107,7 @@ class DynaGrid extends Widget
     public $allowSortSetting = true;
 
     /**
-     * @var array widget options for \kartik\widgets\GridView that will be rendered by the DynaGrid widget
+     * @var array widget options for \kartik\grid\GridView that will be rendered by the DynaGrid widget
      */
     public $gridOptions;
 
